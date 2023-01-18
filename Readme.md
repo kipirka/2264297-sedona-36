@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Irina Kirysheva](https://up.htmlacademy.ru/htmlcss/36/user/2264297).
-* Наставник: `Неизвестно`.
+* Наставник: `Саша Сударев`. (https://htmlacademy.ru/profile/id1152185)
 
 ---
 
