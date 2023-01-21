@@ -96,7 +96,15 @@
     <footer class="page_footer">
       <section class="newsletter">
         <h2 class="page_footer_title">Подпишитесь на рассылку</h2>
+        <form class="newsletter_form" action="https://echo.htmlacademy.ru/" method="post">
+          <label class="visually_hidden" for="newsletter_email">Email</label>
+          <input class="field" placeholder="Ваш e-mail" type="email" name="newsletter_email" id="newsletter_email" required>
+          <button class="button newsletter_button" type="submit">
+            <span class="submit_button">Подписаться</span>
+          </button>
+        </form>
       </section>
+
       <section class="footer_contacts"></section>
       <nav class="foot_contacts_navigation">
         <h2 class="visually_hidden">Наши контакты</h2>
@@ -111,7 +119,7 @@
             <a class="visually_hidden" href="#">Youtube</a>
           </li>
           <li class="social_media">
-            <a class="phone" href=":+78128121212">+7 (812) 812-12-12</a>
+            <a class="phone" href="tel:+78128121212">+7 (812) 812-12-12</a>
           </li>
           <li class="site">
             <a class="visually_hidden" href="%">HTML academy</a>
