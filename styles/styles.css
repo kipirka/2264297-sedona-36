@@ -19,3 +19,27 @@ body {
   font-size: 18px;
   line-height: 21px;
 }
+
+.page_header {
+  margin-bottom: 20px;
+}
+
+.welcome .advantages {
+  margin-bottom: 69px;
+}
+
+.service .booking .catalog_products_result {
+  margin-bottom: 96px;
+}
+
+.newsletter {
+  margin-bottom: 45px;
+}
+
+.inner_header {
+  margin-bottom: 40px;
+}
+
+.catalog_products_filter {
+  margin-bottom: 56px;
+}
