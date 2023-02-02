@@ -43,3 +43,15 @@ body {
 .catalog_products_filter {
   margin-bottom: 56px;
 }
+
+.logo .navigation {
+  margin-bottom: 0;
+}
+
+.advantages_item {
+  margin-bottom: 112px;
+}
+
+.advantages_item:last-child {
+  margin-bottom: 0;
+}
