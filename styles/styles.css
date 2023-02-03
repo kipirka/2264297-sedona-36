@@ -24,11 +24,14 @@ body {
   margin-bottom: 20px;
 }
 
-.welcome .advantages {
+.welcome,
+.advantages {
   margin-bottom: 69px;
 }
 
-.service .booking .catalog_products_result {
+.service,
+.booking,
+.catalog_products_result {
   margin-bottom: 96px;
 }
 
@@ -77,6 +80,8 @@ body {
   margin-bottom: 0;
 }
 
-.sedona_logo .advantages_picture .product_card_image {
+.sedona_logo,
+.advantages_picture,
+.product_card_image {
   display: block;
 }
