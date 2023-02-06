@@ -32,8 +32,15 @@ body {
   font-weight: 700;
   color: inherit;
   background-color: #ffffff;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
+}
+
+.welcome {
+  background-image: url("../images/index/hero/index_background.jpg");
+  background-color: #000000;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
 }
 
 .welcome,
