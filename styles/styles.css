@@ -75,6 +75,24 @@ body {
   text-transform: uppercase;
 }
 
+.hotel_search {
+  font-size: 20px;
+  line-height: 36px;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: inherit;
+  background-color: #ffffff;
+}
+
+.newsletter_title {
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #000000;
+}
 
 .service,
 .booking,
