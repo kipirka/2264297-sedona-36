@@ -26,6 +26,13 @@ body {
   margin-bottom: 20px;
 }
 
+.navigation_link {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+  color: inherit;
+}
+
 .welcome,
 .advantages {
   margin-bottom: 69px;
