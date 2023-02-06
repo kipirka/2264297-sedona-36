@@ -41,6 +41,23 @@ body {
   background-color: #000000;
   background-repeat: no-repeat;
   background-size: 100% auto;
+  margin-bottom: 69px;
+}
+
+.advantages {
+  text-align: center;
+}
+
+.section_title {
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.section_subtitle {
+  font-size: 22px;
+  line-height: 26px;
 }
 
 .welcome,
