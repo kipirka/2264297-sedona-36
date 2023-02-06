@@ -86,12 +86,29 @@ body {
   background-color: #ffffff;
 }
 
+.newsletter_mainpage {
+  color: #ffffff;
+  background-color: #000000;
+  background-image: url("../images/index/subscribe_background.jpg");
+  background-repeat: no-repeat;
+  background-size: 1200px 415px;
+
+}
+
 .newsletter_title {
   font-size: 30px;
   line-height: 36px;
   font-weight: 700;
-  color: #ffffff;
-  background-color: #000000;
+  text-transform: uppercase;
+}
+
+.newsletter_button {
+  font-size: 20px;
+  line-height: 36px;
+  font-weight: 700;
+  color: inherit;
+  background-color: inherit;
+  text-transform: uppercase;
 }
 
 .service,
@@ -100,9 +117,10 @@ body {
   margin-bottom: 96px;
 }
 
+/*
 .newsletter {
   margin-bottom: 45px;
-}
+}*/
 
 .inner_header {
   margin-bottom: 40px;
