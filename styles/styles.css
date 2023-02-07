@@ -189,6 +189,16 @@ body {
   text-decoration: none;
 }
 
+.catalog_filter_title {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.catalog_filter_list {
+  line-height: 23px;
+}
+
 /*
 .service,
 .booking,
