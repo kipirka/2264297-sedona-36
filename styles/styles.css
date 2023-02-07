@@ -31,6 +31,7 @@ body {
   text-align: center;
   color: #ffffff;
   background-color: #756157;
+  font-family: "PT Sans", sans-serif;
 }
 
 .page_header {
@@ -156,6 +157,14 @@ body {
 
 .button_clear {
   background-color: transparent;
+}
+
+.button_favorites {
+  background-color: #82B3D3;
+}
+
+.button_in_favorites {
+  background-color: #7DB54F;
 }
 
 /*
