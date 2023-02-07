@@ -68,6 +68,7 @@ body {
   background-color: #82B3D3;
 }
 
+
 .advantages_item_title {
   font-size: 24px;
   line-height: 28px;
@@ -144,6 +145,15 @@ body {
   text-transform: uppercase;
 }
 
+.phone_link {
+  font-size: 40px;
+  line-height: 40px;
+  color: inherit;
+  text-decoration: none;
+}
+
+
+/*
 .service,
 .booking,
 .catalog_products_result {
@@ -201,3 +211,5 @@ body {
 .product_card_image {
   display: block;
 }
+
+*/
