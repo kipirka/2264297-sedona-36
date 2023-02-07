@@ -22,6 +22,17 @@ body {
   background-color: #ffffff;
 }
 
+.button {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  color: #ffffff;
+  background-color: #756157;
+}
+
 .page_header {
   margin-bottom: 20px;
 }
@@ -32,7 +43,7 @@ body {
   font-weight: 700;
   color: inherit;
   background-color: #ffffff;
-  text-align: left;
+  text-align: center;
   text-decoration: none;
 }
 
@@ -108,12 +119,6 @@ body {
 .hotel_search {
   font-size: 20px;
   line-height: 36px;
-  text-decoration: none;
-  text-align: center;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: inherit;
-  background-color: #ffffff;
 }
 
 .newsletter {
@@ -139,10 +144,7 @@ body {
 .newsletter_button {
   font-size: 20px;
   line-height: 36px;
-  font-weight: 700;
-  color: inherit;
-  background-color: inherit;
-  text-transform: uppercase;
+  background-color: #82B3D3;
 }
 
 .phone_link {
