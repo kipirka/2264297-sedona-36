@@ -167,6 +167,22 @@ body {
   background-color: #7DB54F;
 }
 
+.header_filter {
+  width: 1200px;
+  height: 426px;
+  color: #ffffff;
+  background-color: #000000;
+  background-image: url("../images/catalog/filter_background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+
+.inner_header_title {
+  font-size: 60px;
+  line-height: 78px;
+}
+
 /*
 .service,
 .booking,
