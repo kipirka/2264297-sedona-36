@@ -80,6 +80,9 @@ body {
   background-color: #82B3D3;
 }
 
+.advantages_item_big {
+  width: 1200px;
+}
 
 .advantages_item_title {
   font-size: 24px;
