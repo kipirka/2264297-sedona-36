@@ -75,6 +75,28 @@ body {
   text-transform: uppercase;
 }
 
+.advantages_item_square,
+.advantages_item_tourists {
+  color: #000000;
+  background-color: rgba(131, 179, 211, 0.12);
+}
+
+.advantages_item_road {
+  color: #000000;
+  background-color: rgba(131, 179, 211, 0.2);
+}
+
+.service_item {
+  width: 400px;
+  height: 385px;
+  background-color: rgba(131, 179, 211, 0.12);
+  text-align: center;
+}
+
+.service_item_food {
+  background-color: #ffffff;
+}
+
 .service_item_title {
   font-size: 24px;
   line-height: 28px;
