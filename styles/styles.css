@@ -209,7 +209,7 @@ body {
 
 .product_card_price {
   text-align: right;
-  font-weight: 400;
+  font-weight: inherit;
 }
 
 .rating {
