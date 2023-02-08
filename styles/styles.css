@@ -31,11 +31,7 @@ body {
   text-align: center;
   color: #ffffff;
   background-color: #756157;
-  font-family: "PT Sans", sans-serif;
-}
-
-.page_header {
-  margin-bottom: 20px;
+  font-family: inherit;
 }
 
 .navigation_link {
