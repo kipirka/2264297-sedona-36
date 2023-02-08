@@ -69,7 +69,7 @@ body {
 
 .advantages_item {
   width: 400px;
-  height: 385px;
+  min-height: 385px;
   color: #ffffff;
   background-color: #82B3D3;
 }
@@ -98,7 +98,7 @@ body {
 
 .service_item {
   width: 400px;
-  height: 385px;
+  min-height: 385px;
   background-color: rgba(131, 179, 211, 0.12);
   text-align: center;
 }
@@ -121,7 +121,7 @@ body {
 
 .newsletter {
   width: 1200px;
-  height: 415px;
+  min-height: 415px;
 }
 
 .newsletter_mainpage {
@@ -166,7 +166,7 @@ body {
 
 .header_filter {
   width: 1200px;
-  height: 426px;
+  min-height: 426px;
   color: #ffffff;
   background-color: #000000;
   background-image: url("../images/catalog/filter_background.jpg");
@@ -220,7 +220,7 @@ body {
 
 .pagination_item {
   width: 60px;
-  height: 60px;
+  min-height: 60px;
   background-color: #82B3D3;
 }
 
