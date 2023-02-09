@@ -49,8 +49,9 @@ body {
 }
 
 .welcome {
-  background: url("../images/index/hero/index_background.jpg") no-repeat #000000;
+  background: url("../images/index/hero/divider.svg") no-repeat bottom, url("../images/index/hero/index_background.jpg") no-repeat #000000;
   background-size: 100% auto;
+  text-align: center;
 }
 
 .advantages {
