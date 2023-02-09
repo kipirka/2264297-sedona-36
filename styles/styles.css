@@ -69,6 +69,20 @@ body {
   line-height: 26px;
 }
 
+.advantages_list,
+.service_list,
+.navigation_list,
+.navigation_user,
+.contacts_list,
+.breadcrumbs,
+.catalog_filter_list,
+.product_list,
+.pagination {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .advantages_item {
   width: 400px;
   min-height: 385px;
