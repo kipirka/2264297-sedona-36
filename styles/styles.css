@@ -53,6 +53,21 @@ body {
   padding: 0 70px;
 }
 
+.navigation_list {
+  width: 450px;
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigation_user {
+  width: 300px;
+  margin: 0 0 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
 .navigation_link {
   font-size: 20px;
   line-height: 24px;
@@ -88,7 +103,6 @@ body {
 .advantages_list,
 .service_list,
 .navigation_list,
-.navigation_user,
 .contacts_list,
 .breadcrumbs,
 .catalog_filter_list,
