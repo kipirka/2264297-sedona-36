@@ -153,6 +153,10 @@ body {
   background: rgba(131, 179, 211, 0.2);
 }
 
+.service_list {
+  display: flex;
+}
+
 .service_item {
   width: 400px;
   min-height: 385px;
