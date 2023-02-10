@@ -92,6 +92,7 @@ body {
   text-align: center;
 }
 
+
 .section_title {
   font-size: 30px;
   line-height: 36px;
@@ -117,6 +118,11 @@ body {
   list-style: none;
 }
 
+.advantages_list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .advantages_item {
   width: 400px;
   min-height: 385px;
@@ -126,6 +132,7 @@ body {
 
 .advantages_item_big {
   width: 1200px;
+  display: flex;
 }
 
 .advantages_item_title {
