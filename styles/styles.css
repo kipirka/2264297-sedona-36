@@ -297,6 +297,21 @@ body {
   font-weight: 700;
 }
 
+.catalog_products_result {
+  width: 1060px;
+  margin: 0 auto;
+}
+
+.product_card {
+  width: 340px;
+}
+
+.product_list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 .product_card_link {
   text-decoration: none;
 }
