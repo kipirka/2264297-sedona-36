@@ -204,11 +204,26 @@ body {
   background: #82B3D3;
 }
 
+.page_footer_container {
+  display: flex;
+  padding: 0 70px;
+  justify-content: space-between;
+}
+
+.contacts_list {
+  max-width: 145px;
+}
+
 .phone_link {
   font-size: 40px;
   line-height: 40px;
   color: inherit;
   text-decoration: none;
+  max-width: 335px;
+}
+
+.site {
+  max-width: 120px;
 }
 
 .button_clear {
