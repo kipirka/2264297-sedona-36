@@ -53,6 +53,11 @@ body {
   padding: 0 70px;
 }
 
+.logo {
+  width: 140px;
+  margin-right: 28px;
+}
+
 .navigation_list {
   width: 450px;
 }
@@ -226,6 +231,24 @@ body {
   max-width: 120px;
 }
 
+.catalog_filter_wrapper {
+  display: flex;
+}
+
+.catalog_filter_group {
+  width: 151px;
+  margin-left: 70px;
+  padding: 0;
+}
+
+.button_wrapper {
+  width: 191px;
+}
+
+.input_wrapper {
+  width: 288px;
+}
+
 .button_clear {
   background: transparent;
 }
@@ -240,9 +263,9 @@ body {
 
 .header_filter {
   width: 1200px;
-  min-height: 426px;
+  min-height: 412px;
   color: #ffffff;
-  background: #000000 url("../images/catalog/filter_background.jpg") no-repeat;
+  background: url("../images/catalog/filter_background.jpg") no-repeat #000000;
   background-size: 100% auto;
 }
 
@@ -266,6 +289,12 @@ body {
 
 .catalog_filter_list {
   line-height: 23px;
+}
+
+.filter_text {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700;
 }
 
 .product_card_link {
