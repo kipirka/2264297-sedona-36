@@ -60,6 +60,11 @@ body {
 
 .navigation_list {
   width: 450px;
+  display: flex;
+}
+
+.navigation_item {
+  padding: 20px 16px;
 }
 
 .navigation {
