@@ -46,6 +46,8 @@ body {
   color: #ffffff;
   background: #756157;
   font-family: inherit;
+  padding: 8px 34px;
+  border-radius: 4px;
 }
 
 .page_header {
@@ -85,6 +87,7 @@ body {
   padding: 0;
   list-style: none;
   display: flex;
+  align-items: center;
 }
 
 .navigation_user .navigation_item {
@@ -102,6 +105,12 @@ body {
   text-align: center;
   text-decoration: none;
 }
+
+.navigation_item_button {
+  display: flex;
+  align-items: center;
+}
+
 
 .slogan {
   display: block;
