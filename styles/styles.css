@@ -118,12 +118,15 @@ body {
   line-height: 36px;
   font-weight: 700;
   text-transform: uppercase;
+  margin: 0 auto;
   padding: 69px 290px 25px;
 }
 
 .section_subtitle {
   font-size: 22px;
   line-height: 26px;
+  margin: 0 auto;
+  padding-bottom: 69px;
 }
 
 .advantages_list,
