@@ -81,6 +81,11 @@ body {
   display: flex;
 }
 
+.navigation_user .navigation_item {
+  min-width: 44px;
+  min-height: 64px;
+}
+
 .navigation_link {
   font-size: 20px;
   line-height: 24px;
@@ -94,6 +99,7 @@ body {
 .slogan {
   display: block;
   margin: 0 auto;
+  padding-top: 51px;
 }
 
 .welcome {
