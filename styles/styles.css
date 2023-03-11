@@ -61,6 +61,7 @@ body {
 .navigation_list {
   width: 450px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .navigation_item {
@@ -69,6 +70,7 @@ body {
 
 .navigation {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .navigation_user {
