@@ -170,8 +170,18 @@ body {
   background: #82B3D3;
 }
 
+.wrapper_advantages_list {
+  width: 230px;
+  min-height: 160px;
+  margin: auto;
+}
+
 .advantages_item_big {
   width: 1200px;
+  display: flex;
+}
+
+.advantages_item {
   display: flex;
 }
 
@@ -180,7 +190,6 @@ body {
   line-height: 28px;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 102px auto 62px;
 }
 
 .advantages_item_square,
