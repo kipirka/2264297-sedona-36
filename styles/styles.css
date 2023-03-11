@@ -278,6 +278,7 @@ body {
 .inner_header_title {
   font-size: 60px;
   line-height: 78px;
+  margin: 0;
 }
 
 .breadcrumbs_link {
