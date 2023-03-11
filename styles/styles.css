@@ -51,26 +51,32 @@ body {
 .page_header {
   display: flex;
   padding: 0 70px;
+  min-height: 64px;
 }
 
 .logo {
   width: 140px;
   margin-right: 28px;
+  margin-bottom: -10px;
+  position: relative;
 }
 
 .navigation_list {
   width: 450px;
   display: flex;
   flex-wrap: wrap;
+  margin-block: 0;
 }
 
 .navigation_item {
   padding: 20px 16px;
+  align-self: center;
 }
 
 .navigation {
   display: flex;
   flex-wrap: wrap;
+  min-height: 64px;
 }
 
 .navigation_user {
@@ -84,6 +90,7 @@ body {
 .navigation_user .navigation_item {
   min-width: 44px;
   min-height: 64px;
+  padding: 0;
 }
 
 .navigation_link {
@@ -118,7 +125,7 @@ body {
   line-height: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  margin: 0 auto;
+  margin: 0;
   padding: 69px 290px 25px;
 }
 
