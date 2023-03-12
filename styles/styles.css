@@ -263,6 +263,7 @@ body {
 .newsletter {
   width: 1200px;
   min-height: 415px;
+  text-align: center;
 }
 
 .newsletter_mainpage {
@@ -277,6 +278,8 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   margin: 0 auto;
+  padding-top: 96px;
+  padding-bottom: 20px;
 }
 
 .newsletter_button {
