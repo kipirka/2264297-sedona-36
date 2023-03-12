@@ -143,6 +143,7 @@ body {
   line-height: 26px;
   margin: 0 auto;
   padding-bottom: 69px;
+  width: 651px;
 }
 
 .advantages_list,
@@ -236,7 +237,20 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   padding-top: 102px;
+  margin: 0;
   padding-bottom: 30px;
+}
+
+.service_item_description {
+  margin: 0;
+}
+
+.booking {
+  text-align: center;
+}
+
+.section_subtitle_booking {
+  padding-bottom: 54px;
 }
 
 .hotel_search {
