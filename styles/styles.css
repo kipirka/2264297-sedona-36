@@ -216,6 +216,14 @@ body {
   min-height: 385px;
   background: rgba(131, 179, 211, 0.12);
   text-align: center;
+  display: flex;
+}
+
+
+.wrapper_service_list {
+  width: 230px;
+  min-height: 223px;
+  margin: auto;
 }
 
 .service_item_food {
@@ -227,6 +235,8 @@ body {
   line-height: 28px;
   font-weight: 700;
   text-transform: uppercase;
+  padding-top: 102px;
+  padding-bottom: 30px;
 }
 
 .hotel_search {
