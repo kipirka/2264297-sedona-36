@@ -292,14 +292,22 @@ body {
 }
 
 .field {
+  box-sizing: border-box;
   min-width: 452px;
   min-height: 52px;
+  padding: 14px 345px 14px 20px;
+  border: 0;
+  border-radius: 4px 0 0 4px;
 }
 
 .newsletter_button {
   font-size: 20px;
   line-height: 36px;
   background: #82B3D3;
+  min-width: 232px;
+  min-height: 52px;
+  border: 0;
+  border-radius: 0 4px 4px 0;
 }
 
 .page_footer_container {
