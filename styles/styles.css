@@ -247,6 +247,7 @@ body {
 
 .booking {
   text-align: center;
+  padding-bottom: 96px;
 }
 
 .section_subtitle_booking {
@@ -275,6 +276,7 @@ body {
   line-height: 36px;
   font-weight: 700;
   text-transform: uppercase;
+  margin: 0 auto;
 }
 
 .newsletter_button {
