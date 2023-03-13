@@ -318,7 +318,7 @@ body {
 
 .page_footer_container {
   display: flex;
-  padding: 0 70px;
+  padding: 40px 70px 30px 70px;
   justify-content: space-between;
 }
 
