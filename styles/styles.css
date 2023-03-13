@@ -322,8 +322,16 @@ body {
   justify-content: space-between;
 }
 
+.social_media {
+  width: 47.3px;
+  height: 40px;
+  padding: 13px 11.7px 13px 11.7px;
+}
+
 .contacts_list {
   max-width: 145px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .phone_link {
